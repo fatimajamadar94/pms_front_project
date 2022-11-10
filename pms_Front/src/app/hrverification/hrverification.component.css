@@ -1,0 +1,11 @@
+h3{
+    text-align: center;
+}
+.button{
+    text-align: center;
+}
+.highlight{
+    scrollbar-arrow-color: royalblue;
+}
+.trclass:hover { background: #000 !important; }
+.trclass:hover td { background: transparent; }
